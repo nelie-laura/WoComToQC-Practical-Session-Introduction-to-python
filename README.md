@@ -13,7 +13,8 @@ In this repository, we post the notebooks for the practical sessions. They were 
    
    
  ### Simplices and Betti numbers:
-   1. [Simplices and Betti number]()
+   1. [Simplices](https://github.com/KEMPEGUY/Workshop-on-Computational-Topology-Quantum-Computing-Homology-of-Dataa/blob/main/1_Simplicial_Complex.ipynb)
+   2. [Betti numbers]()
       
  ### Quantum Computing     
    1. [Quantum Computing]()
